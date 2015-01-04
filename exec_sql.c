@@ -96,4 +96,5 @@ printf("MySQL connect error! %d: %s\n",mysql_errno(&mysql),mysql_error(&mysql));
 		return 0;
 
 }
+
 #endif
